@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InternshipProject</string>
+    <string name="welcome_in_cybersec">Welcome in CyberSec</string>
+    <string name="trusted_by_231_million_users">Trusted by 231 million users</string>
+    <string name="skip" />
+    <string name="title_onboarding_1">You deserve to feel safe</string>
+    <string name="description_onboarding_1">It\'s our mission to help you feel that way.Swipe to see how we do more than stop malware</string>
+    <string name="title_onboarding_2">Browse,shope, and bank away!</string>
+    <string name="description_onboarding_2">JUst do your thing.We will warn you if you stumble upon any unsafe websites or wifi networks</string>
+    <string name="title_onboarding_3">Can you keep a secret? We can</string>
+    <string name="description_onboarding_3">Secure your most private photos with a PIN or fingerprint so only you can access them.</string>
+</resources>
